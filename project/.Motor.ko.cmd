@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/project-ok/project/Motor.ko := arm-linux-gnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/ubuntu/project-ok/project/Motor.ko /home/ubuntu/project-ok/project/Motor.o /home/ubuntu/project-ok/project/Motor.mod.o;  true

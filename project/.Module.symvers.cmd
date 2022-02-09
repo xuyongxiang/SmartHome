@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/project-ok/project/Module.symvers := sed 's/ko$$/o/' /home/ubuntu/project-ok/project/modules.order | scripts/mod/modpost -m  -E  -o /home/ubuntu/project-ok/project/Module.symvers -e -i Module.symvers   -T -

@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/project-ok/project/Myled.ko := arm-linux-gnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/ubuntu/project-ok/project/Myled.ko /home/ubuntu/project-ok/project/Myled.o /home/ubuntu/project-ok/project/Myled.mod.o;  true
